@@ -1,1 +1,1 @@
-# 100-days-of-rust
+Learning Rust Day By Day 
